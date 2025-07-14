@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaxensF
 - 🏞 Mountain hiker/biker/skier 
 - ⚙️ Embedded system engeneer (FPGA / µC ) 
-- 📫 Reach me by ferrymaxens@yahoo.fr 
 
 <!---
 MaxensF/MaxensF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaxensF
-- 🏞 Mountain hiker/biker/skier 
-- ⚙️ Embedded system engeneer (FPGA / µC ) 
+👋 Hey there! I’m @MaxensF  
+- ⚙️ Embedded system engeneer
+- 🏡 Passionate Home Assistant user
 
 <!---
 MaxensF/MaxensF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 👋 Hey there! I’m @MaxensF  
-- ⚙️ Embedded system engeneer
+- ⚙️ Embedded system engineer
 - 🏡 Passionate Home Assistant user
 
 <!---
